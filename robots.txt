@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harymoges.github.io/skygame-kaiyun-com-cn/sitemap.xml
